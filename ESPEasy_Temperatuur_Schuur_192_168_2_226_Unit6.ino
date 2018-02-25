@@ -77,8 +77,8 @@
 // After loading firmware, issue a 'reset' command to load the defaults.
 
 #define DEFAULT_NAME        "Wemos v2"         // Enter your device friendly name
-#define DEFAULT_SSID        "Dred"              // Enter your network SSID
-#define DEFAULT_KEY         "6A6DEA55C7CC"            // Enter your network WPA key
+#define DEFAULT_SSID        "wifi ssid"              // Enter your network SSID
+#define DEFAULT_KEY         "wifi password"            // Enter your network WPA key
 #define DEFAULT_SERVER      "192.168.2.210"       // Enter your Domoticz Server IP address
 #define DEFAULT_PORT        1883                // Enter your Domoticz Server port value
 #define DEFAULT_DELAY       60                  // Enter your Send delay in seconds
